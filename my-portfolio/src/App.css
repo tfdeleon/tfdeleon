@@ -1,38 +1,82 @@
-.App {
-  text-align: center;
+/************ Custom Font ************/
+@font-face {
+	font-family: Playfair Display;
+	src: url('./assets/font/PlayfairDisplay-VariableFont_wght.ttf');
+}
+@font-face {
+	font-family: Playfair Display Italic;
+	src: url('./assets/font/PlayfairDisplay-Italic-VariableFont_wght.ttf');
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/************ Default CSS ************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 75px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+body {
+  font-weight: 400;
+  overflow-x: hidden;
+  position: relative;
+  background: black;
+  color: #3684fa !important;
+  font-family: 'Playfair Display', serif !important;
 }
 
-.App-link {
-  color: #61dafb;
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+p, a, li, button, ul {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+button {
+  border: 0;
+  background-color: transparent;
+}
+
+input:focus, textarea:focus, select:focus {
+  outline: none;
+}
+
+@media (min-width:1700px) {
+	main .container {
+		max-width: 100%;
+		padding: 0 150px;
+	}
+}
+
+hr.divider {
+  max-width: 80%;
+  margin: 0px auto 80px auto;
+  color: #ffffff;
+  opacity: 1;
+}
+
+hr.contact-divider {
+  max-width: 74.0%;
+  margin: 0px auto 60px auto;
+  color: #ffffff;
+  opacity: 1;
 }
