@@ -2,7 +2,7 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 import { useState, useEffect } from "react";
 import github from "../assets/img/icons8-github.svg";
 import linkedIn from "../assets/img/icons8-linkedin.svg";
-import gitlab from "../assets/img/icons8-github.svg";
+import gitlab from "../assets/img/gitlab700.svg";
 import "../styles/NavBar.css"
 
 export const NavBar = () => {
