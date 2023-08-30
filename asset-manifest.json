@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tfdeleon.github.io/static/css/main.a773956d.css",
-    "main.js": "/tfdeleon.github.io/static/js/main.744cd8cc.js",
+    "main.js": "/tfdeleon.github.io/static/js/main.247aecac.js",
     "static/js/787.128fc6e9.chunk.js": "/tfdeleon.github.io/static/js/787.128fc6e9.chunk.js",
     "static/media/astrogif.gif": "/tfdeleon.github.io/static/media/astrogif.4d59859f7d2d818f86c1.gif",
     "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/tfdeleon.github.io/static/media/PlayfairDisplay-VariableFont_wght.3f7c141215e6d22d0f1e.ttf",
@@ -13,11 +13,11 @@
     "index.html": "/tfdeleon.github.io/index.html",
     "static/media/gitlab700.svg": "/tfdeleon.github.io/static/media/gitlab700.e9edbe5aadfb27bf8714e1ed0d49f312.svg",
     "main.a773956d.css.map": "/tfdeleon.github.io/static/css/main.a773956d.css.map",
-    "main.744cd8cc.js.map": "/tfdeleon.github.io/static/js/main.744cd8cc.js.map",
+    "main.247aecac.js.map": "/tfdeleon.github.io/static/js/main.247aecac.js.map",
     "787.128fc6e9.chunk.js.map": "/tfdeleon.github.io/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a773956d.css",
-    "static/js/main.744cd8cc.js"
+    "static/js/main.247aecac.js"
   ]
 }
