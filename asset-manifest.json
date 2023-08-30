@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tfdeleon.github.io/my-portfolio/static/css/main.c27358ba.css",
-    "main.js": "/tfdeleon.github.io/my-portfolio/static/js/main.d4bba749.js",
-    "static/js/787.128fc6e9.chunk.js": "/tfdeleon.github.io/my-portfolio/static/js/787.128fc6e9.chunk.js",
-    "static/media/astrogif.gif": "/tfdeleon.github.io/my-portfolio/static/media/astrogif.4d59859f7d2d818f86c1.gif",
-    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/tfdeleon.github.io/my-portfolio/static/media/PlayfairDisplay-VariableFont_wght.3f7c141215e6d22d0f1e.ttf",
-    "static/media/PlayfairDisplay-Italic-VariableFont_wght.ttf": "/tfdeleon.github.io/my-portfolio/static/media/PlayfairDisplay-Italic-VariableFont_wght.8a3a30667c7d75e00588.ttf",
-    "static/media/halfway.jpg": "/tfdeleon.github.io/my-portfolio/static/media/halfway.3d96597321fbb65cfc01.jpg",
-    "static/media/me.png": "/tfdeleon.github.io/my-portfolio/static/media/me.7b20ceb708aabba488b8.png",
-    "static/media/icons8-github.svg": "/tfdeleon.github.io/my-portfolio/static/media/icons8-github.24292f8f486e6d71c91f526c9ce9d776.svg",
-    "static/media/icons8-linkedin.svg": "/tfdeleon.github.io/my-portfolio/static/media/icons8-linkedin.a4ae3ceede4d5ec4c85368efa1945282.svg",
-    "index.html": "/tfdeleon.github.io/my-portfolio/index.html",
-    "static/media/gitlab700.svg": "/tfdeleon.github.io/my-portfolio/static/media/gitlab700.e9edbe5aadfb27bf8714e1ed0d49f312.svg",
-    "main.c27358ba.css.map": "/tfdeleon.github.io/my-portfolio/static/css/main.c27358ba.css.map",
-    "main.d4bba749.js.map": "/tfdeleon.github.io/my-portfolio/static/js/main.d4bba749.js.map",
-    "787.128fc6e9.chunk.js.map": "/tfdeleon.github.io/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/tfdeleon.github.io/tfdeleon.github.io/static/css/main.644a315c.css",
+    "main.js": "/tfdeleon.github.io/tfdeleon.github.io/static/js/main.6f433f6b.js",
+    "static/js/787.128fc6e9.chunk.js": "/tfdeleon.github.io/tfdeleon.github.io/static/js/787.128fc6e9.chunk.js",
+    "static/media/astrogif.gif": "/tfdeleon.github.io/tfdeleon.github.io/static/media/astrogif.4d59859f7d2d818f86c1.gif",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/tfdeleon.github.io/tfdeleon.github.io/static/media/PlayfairDisplay-VariableFont_wght.3f7c141215e6d22d0f1e.ttf",
+    "static/media/PlayfairDisplay-Italic-VariableFont_wght.ttf": "/tfdeleon.github.io/tfdeleon.github.io/static/media/PlayfairDisplay-Italic-VariableFont_wght.8a3a30667c7d75e00588.ttf",
+    "static/media/halfway.jpg": "/tfdeleon.github.io/tfdeleon.github.io/static/media/halfway.3d96597321fbb65cfc01.jpg",
+    "static/media/me.png": "/tfdeleon.github.io/tfdeleon.github.io/static/media/me.7b20ceb708aabba488b8.png",
+    "static/media/icons8-github.svg": "/tfdeleon.github.io/tfdeleon.github.io/static/media/icons8-github.24292f8f486e6d71c91f526c9ce9d776.svg",
+    "static/media/icons8-linkedin.svg": "/tfdeleon.github.io/tfdeleon.github.io/static/media/icons8-linkedin.a4ae3ceede4d5ec4c85368efa1945282.svg",
+    "index.html": "/tfdeleon.github.io/tfdeleon.github.io/index.html",
+    "static/media/gitlab700.svg": "/tfdeleon.github.io/tfdeleon.github.io/static/media/gitlab700.e9edbe5aadfb27bf8714e1ed0d49f312.svg",
+    "main.644a315c.css.map": "/tfdeleon.github.io/tfdeleon.github.io/static/css/main.644a315c.css.map",
+    "main.6f433f6b.js.map": "/tfdeleon.github.io/tfdeleon.github.io/static/js/main.6f433f6b.js.map",
+    "787.128fc6e9.chunk.js.map": "/tfdeleon.github.io/tfdeleon.github.io/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c27358ba.css",
-    "static/js/main.d4bba749.js"
+    "static/css/main.644a315c.css",
+    "static/js/main.6f433f6b.js"
   ]
 }
