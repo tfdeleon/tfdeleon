@@ -21,7 +21,7 @@ export const Projects = () => {
       description:
       "A dating web application where users can find their soulmate by weeding out bad seeds with the implementation of dating reviews",
       imgUrl: Halfway,
-      gitUrl: "https://gitlab.com/barrettAJ/astro",
+      gitUrl: "https://gitlab.com/tfdeleon/Type-HalfWay",
       technologies: "FastAPI, PostgreSQL, React, Bootstrap, MaterialUI, "
     },
   ];
