@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tfdeleon/static/css/main.23494f22.css",
-    "main.js": "/tfdeleon/static/js/main.bc2cd5a6.js",
+    "main.js": "/tfdeleon/static/js/main.b1a0e962.js",
     "static/js/787.128fc6e9.chunk.js": "/tfdeleon/static/js/787.128fc6e9.chunk.js",
     "static/media/astrogif.gif": "/tfdeleon/static/media/astrogif.4d59859f7d2d818f86c1.gif",
     "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/tfdeleon/static/media/PlayfairDisplay-VariableFont_wght.3f7c141215e6d22d0f1e.ttf",
@@ -13,11 +13,11 @@
     "index.html": "/tfdeleon/index.html",
     "static/media/gitlab700.svg": "/tfdeleon/static/media/gitlab700.e9edbe5aadfb27bf8714e1ed0d49f312.svg",
     "main.23494f22.css.map": "/tfdeleon/static/css/main.23494f22.css.map",
-    "main.bc2cd5a6.js.map": "/tfdeleon/static/js/main.bc2cd5a6.js.map",
+    "main.b1a0e962.js.map": "/tfdeleon/static/js/main.b1a0e962.js.map",
     "787.128fc6e9.chunk.js.map": "/tfdeleon/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23494f22.css",
-    "static/js/main.bc2cd5a6.js"
+    "static/js/main.b1a0e962.js"
   ]
 }
