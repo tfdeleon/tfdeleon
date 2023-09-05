@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tfdeleon/static/css/main.23494f22.css",
+    "main.css": "/tfdeleon/static/css/main.425698fd.css",
     "main.js": "/tfdeleon/static/js/main.b1a0e962.js",
     "static/js/787.128fc6e9.chunk.js": "/tfdeleon/static/js/787.128fc6e9.chunk.js",
     "static/media/astrogif.gif": "/tfdeleon/static/media/astrogif.4d59859f7d2d818f86c1.gif",
@@ -12,12 +12,12 @@
     "static/media/icons8-linkedin.svg": "/tfdeleon/static/media/icons8-linkedin.a4ae3ceede4d5ec4c85368efa1945282.svg",
     "index.html": "/tfdeleon/index.html",
     "static/media/gitlab700.svg": "/tfdeleon/static/media/gitlab700.e9edbe5aadfb27bf8714e1ed0d49f312.svg",
-    "main.23494f22.css.map": "/tfdeleon/static/css/main.23494f22.css.map",
+    "main.425698fd.css.map": "/tfdeleon/static/css/main.425698fd.css.map",
     "main.b1a0e962.js.map": "/tfdeleon/static/js/main.b1a0e962.js.map",
     "787.128fc6e9.chunk.js.map": "/tfdeleon/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23494f22.css",
+    "static/css/main.425698fd.css",
     "static/js/main.b1a0e962.js"
   ]
 }
