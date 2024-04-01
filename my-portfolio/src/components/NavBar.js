@@ -99,7 +99,7 @@ export const NavBar = () => {
                 <img src={github} alt="Github" />
               </a>
             </div>
-            <a href="https://docs.google.com/document/d/1ym_wFIN54__HvZurZtYFghMyk0PSTqZb49haB-eY0M0/">
+            <a href="https://docs.google.com/document/d/1seu6sZTn-AWrxTqto_1HNYjzpP1t8N1tmJc54U0e0f0/edit?usp=sharing">
               <button>
                 <span>Resume</span>
               </button>

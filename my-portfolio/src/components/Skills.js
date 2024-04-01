@@ -8,14 +8,14 @@ import {
   SiDocker,
   SiFastapi,
   SiBootstrap,
-  SiNodedotjs,
-  SiMongodb,
-  SiRedux,
+  SiRedis,
   SiGit,
   SiHtml5,
   SiCss3,
-//   SiMaterialui,
+  SiTailwindcss,
   SiSocketdotio,
+  SiTypescript,
+  SiNextdotjs,
 } from "react-icons/si";
 import "../styles/Skills.css"
 
@@ -46,20 +46,20 @@ export const Skills = () => {
           </Col>
           <Col className="item-bx" xs={3} sm={3}>
             <div className="item">
-              <SiBootstrap size={"5em"}/>
-              <h5>Bootstrap</h5>
+              <SiTypescript size={"5em"}/>
+              <h5>TypeScript</h5>
             </div>
           </Col>
           <Col className="item-bx" xs={3} sm={3}>
             <div className="item">
-              <SiDocker size={"5em"}/>
-             <h5>Docker</h5>
+              <SiNextdotjs size={"5em"}/>
+             <h5>Next.Js</h5>
             </div>
           </Col>
           <Col className="item-bx">
             <div className="item">
-              <SiNodedotjs size={"5em"}/>
-             <h5>Node.js</h5>
+              <SiReact size={"5em"}/>
+             <h5>React</h5>
             </div>
           </Col>
           <Col className="item-bx">
@@ -76,20 +76,14 @@ export const Skills = () => {
           </Col>
           <Col className="item-bx">
             <div className="item">
-              <SiReact size={"5em"}/>
-             <h5>React</h5>
+              <SiGit size={"5em"}/>
+              <h5>Git</h5>
             </div>
           </Col>
           <Col className="item-bx">
             <div className="item">
-              <SiRedux size={"5em"}/>
-              <h5>Redux</h5>
-            </div>
-          </Col>
-          <Col className="item-bx">
-            <div className="item">
-              <SiMongodb size={"5em"}/>
-             <h5>MongoDB</h5>
+              <SiRedis size={"5em"}/>
+             <h5>Redis</h5>
             </div>
           </Col>
           <Col className="item-bx">
@@ -100,8 +94,8 @@ export const Skills = () => {
           </Col>
           <Col className="item-bx">
             <div className="item">
-              <SiGit size={"5em"}/>
-              <h5>Git</h5>
+              <SiTailwindcss size={"5em"}/>
+              <h5>TailwindCSS</h5>
             </div>
           </Col>
           <Col className="item-bx">
@@ -116,12 +110,18 @@ export const Skills = () => {
               <h5>CSS</h5>
             </div>
           </Col>
-          {/* <Col className="item-bx">
+          <Col className="item-bx" xs={3} sm={3}>
             <div className="item">
-              <SiMaterialui size={"5em"}/>
-              <h5>MaterialUI</h5>
+              <SiBootstrap size={"5em"}/>
+              <h5>Bootstrap</h5>
             </div>
-          </Col> */}
+          </Col>
+          <Col className="item-bx" xs={3} sm={3}>
+            <div className="item">
+              <SiDocker size={"5em"}/>
+             <h5>Docker</h5>
+            </div>
+          </Col>
           <Col className="item-bx">
             <div className="item">
               <SiSocketdotio size={"5em"}/>
